@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HELP"]
 	path = HELP
 	url = https://git.bioconductor.org/packages/HELP
-	shallow = true
-	registered = true
 [submodule "MassArray"]
 	path = MassArray
 	url = https://git.bioconductor.org/packages/MassArray
-	shallow = true
-	registered = true
 [submodule "RadOnc"]
 	path = RadOnc
 	url = https://github.com/cran/RadOnc
-	shallow = true
-	registered = true
