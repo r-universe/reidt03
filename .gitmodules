@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "HELP"]
-	path = HELP
-	url = https://git.bioconductor.org/packages/HELP
-[submodule "MassArray"]
-	path = MassArray
-	url = https://git.bioconductor.org/packages/MassArray
 [submodule "RadOnc"]
 	path = RadOnc
 	url = https://github.com/cran/RadOnc
